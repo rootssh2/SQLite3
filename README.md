@@ -43,7 +43,7 @@ Para usar o SQLite_Dump V3, siga estes passos:
      ```
 
 3. **Executando a Ferramenta**:
-   - Navegue até o diretório contendo `main.py`:
+   - Navegue até o diretório contendo `SQLite3_Dump-V3.py`:
      ```bash
      python SQLite3_Dump-V3.py
      ```
