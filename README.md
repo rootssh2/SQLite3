@@ -78,8 +78,8 @@ Contribuições são bem-vindas! Por favor, faça um fork deste repositório e e
 
 ## Contato
 
-Para perguntas ou suporte, entre em contato pelo Telegram: [@Root2022]
+Para perguntas ou suporte, entre em contato pelo Telegram: @Root2022
 
 ---
 
-Feito com 💙 por [root.xyz]
+Feito com 💙 por root.xyz
