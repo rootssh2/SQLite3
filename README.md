@@ -1,7 +1,7 @@
-# SQLite_Dump V3
+# SQLite_Dump V4
 
 ## Visão Geral
-**SQLite_Dump V3** é uma ferramenta em Python projetada para gerenciar credenciais de arquivos de texto para um banco de dados SQLite, realizar buscas e limpar listas de palavras. Esta ferramenta é particularmente útil para lidar com credenciais de login em grandes quantidades, oferecendo funcionalidades para:
+**SQLite_Dump V4** é uma ferramenta em Python projetada para gerenciar credenciais de arquivos de texto para um banco de dados SQLite, realizar buscas e limpar listas de palavras. Esta ferramenta é particularmente útil para lidar com credenciais de login em grandes quantidades, oferecendo funcionalidades para:
 
 - Inserir credenciais de arquivos `.txt` em um banco de dados SQLite.
 - Buscar credenciais com base em um termo e salvar os resultados.
@@ -29,7 +29,7 @@
 
 ## Uso
 
-Para usar o SQLite_Dump V3, siga estes passos:
+Para usar o SQLite_Dump V4, siga estes passos:
 
 1. **Pré-requisitos**:
    - Python 3.x instalado
@@ -38,14 +38,14 @@ Para usar o SQLite_Dump V3, siga estes passos:
 2. **Instalação**:
    - Clone este repositório:
      ```bash
-     git clone https://github.com/rootssh2/SQLite3_Dump-V3.git
-     cd SQLite_Dump-V3
+     git clone https://github.com/rootssh2/SQLite3_Dump-V4.git
+     cd SQLite_Dump-V4
      ```
 
 3. **Executando a Ferramenta**:
-   - Navegue até o diretório contendo `SQLite3_Dump-V3.py`:
+   - Navegue até o diretório contendo `SQLite3_Dump-V4.py`:
      ```bash
-     python SQLite3_Dump-V3.py
+     python SQLite3_Dump-V4.py
      ```
 
 4. **Opções do Menu**:
