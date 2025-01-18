@@ -65,7 +65,7 @@ Para usar o SQLite_Dump V4, siga estes passos:
 ## Notas
 
 - Certifique-se de que seus arquivos `.txt` estão formatados corretamente com credenciais de login separadas por ':' ou '|'.
-- A ferramenta não lida com codificações de arquivos diferentes de UTF-8.
+- A ferramenta lida com várias codificações de arquivos diferentes.
 
 ## Contribuição
 
